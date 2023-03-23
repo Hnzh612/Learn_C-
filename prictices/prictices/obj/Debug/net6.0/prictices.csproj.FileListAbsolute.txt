@@ -1,0 +1,15 @@
+D:\myf\prictices\prictices\bin\Debug\net6.0\prictices.exe
+D:\myf\prictices\prictices\bin\Debug\net6.0\prictices.deps.json
+D:\myf\prictices\prictices\bin\Debug\net6.0\prictices.runtimeconfig.json
+D:\myf\prictices\prictices\bin\Debug\net6.0\prictices.dll
+D:\myf\prictices\prictices\bin\Debug\net6.0\prictices.pdb
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.csproj.AssemblyReference.cache
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.GeneratedMSBuildEditorConfig.editorconfig
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.AssemblyInfoInputs.cache
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.AssemblyInfo.cs
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.csproj.CoreCompileInputs.cache
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.dll
+D:\myf\prictices\prictices\obj\Debug\net6.0\refint\prictices.dll
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.pdb
+D:\myf\prictices\prictices\obj\Debug\net6.0\prictices.genruntimeconfig.cache
+D:\myf\prictices\prictices\obj\Debug\net6.0\ref\prictices.dll

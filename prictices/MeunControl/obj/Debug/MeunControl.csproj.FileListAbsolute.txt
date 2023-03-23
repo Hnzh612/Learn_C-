@@ -1,0 +1,11 @@
+D:\myf\prictices\MeunControl\bin\Debug\MeunControl.exe.config
+D:\myf\prictices\MeunControl\bin\Debug\MeunControl.exe
+D:\myf\prictices\MeunControl\bin\Debug\MeunControl.pdb
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.csproj.AssemblyReference.cache
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.csproj.SuggestedBindingRedirects.cache
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.Form1.resources
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.Properties.Resources.resources
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.csproj.GenerateResource.cache
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.csproj.CoreCompileInputs.cache
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.exe
+D:\myf\prictices\MeunControl\obj\Debug\MeunControl.pdb

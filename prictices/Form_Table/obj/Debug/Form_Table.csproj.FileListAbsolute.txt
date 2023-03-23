@@ -1,0 +1,11 @@
+D:\myf\prictices\Form_Table\bin\Debug\Form_Table.exe.config
+D:\myf\prictices\Form_Table\bin\Debug\Form_Table.exe
+D:\myf\prictices\Form_Table\bin\Debug\Form_Table.pdb
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.csproj.AssemblyReference.cache
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.csproj.SuggestedBindingRedirects.cache
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.Properties.Resources.resources
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.csproj.GenerateResource.cache
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.csproj.CoreCompileInputs.cache
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.exe
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.pdb
+D:\myf\prictices\Form_Table\obj\Debug\Form_Table.Form1.resources

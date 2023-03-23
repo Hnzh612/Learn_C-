@@ -1,0 +1,11 @@
+D:\myf\prictices\progress_bar\bin\Debug\progress_bar.exe.config
+D:\myf\prictices\progress_bar\bin\Debug\progress_bar.exe
+D:\myf\prictices\progress_bar\bin\Debug\progress_bar.pdb
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.csproj.AssemblyReference.cache
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.csproj.SuggestedBindingRedirects.cache
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.Form1.resources
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.Properties.Resources.resources
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.csproj.GenerateResource.cache
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.csproj.CoreCompileInputs.cache
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.exe
+D:\myf\prictices\progress_bar\obj\Debug\progress_bar.pdb
