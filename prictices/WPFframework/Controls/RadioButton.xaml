@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPFframework.Controls.RadioButton"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFframework.Controls"
+        mc:Ignorable="d"
+        Title="RadioButton" Height="450" Width="800">
+    <Grid>
+        <!--
+            RadioButton 如果要实现分组的效果
+            1、使用布局容器来嵌套（如grid/stackPanel等等）
+            2、可以使用 groupName 进行分组
+        -->
+        <RadioButton Content="苹果" HorizontalAlignment="Left" Margin="24,31,0,0" VerticalAlignment="Top" FontSize="20" GroupName="fruit"/>
+        <RadioButton Content="香蕉" HorizontalAlignment="Left" Margin="124,31,0,0" VerticalAlignment="Top" FontSize="20" GroupName="fruit"/>
+        <RadioButton Content="草莓" Margin="224,31,0,0" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="fruit"/>
+        <RadioButton Content="西瓜" HorizontalAlignment="Left" Margin="324,31,0,0" VerticalAlignment="Top" FontSize="20" GroupName="fruit"/>
+
+        <RadioButton Content="男" HorizontalAlignment="Left" Margin="24,81,0,0" VerticalAlignment="Top" FontSize="20" GroupName="gender"/>
+        <RadioButton Content="女" HorizontalAlignment="Left" Margin="124,81,0,0" VerticalAlignment="Top" FontSize="20" GroupName="gender"/>
+        
+    </Grid>
+</Window>

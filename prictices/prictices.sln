@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progress_bar", "progress_ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeunControl", "MeunControl\MeunControl.csproj", "{D7F3A5B1-8B79-494B-8017-68E8DB58DC47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFframework", "WPFframework\WPFframework.csproj", "{CAF54A79-8027-4319-AED0-AA25A12D84AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D7F3A5B1-8B79-494B-8017-68E8DB58DC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F3A5B1-8B79-494B-8017-68E8DB58DC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F3A5B1-8B79-494B-8017-68E8DB58DC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

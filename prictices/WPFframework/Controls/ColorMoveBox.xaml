@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPFframework.Controls.ColorMoveBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFframework.Controls"
+        mc:Ignorable="d"
+        Title="ColorMoveBox" Height="450" Width="800" KeyDown="Grid_KeyDown">
+    <Grid ShowGridLines="True" Background="Aqua" Name="gridContent">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Name="b1" Background="White" Grid.Row="0" Grid.Column="0" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b2" Background="Transparent" Grid.Row="0" Grid.Column="1" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b3" Background="Transparent" Grid.Row="0" Grid.Column="2" MouseMove="Bind_MouseMove"></Border>
+        
+        <Border Name="b4" Background="Transparent" Grid.Row="1" Grid.Column="0" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b5" Background="Transparent" Grid.Row="1" Grid.Column="1" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b6" Background="Transparent" Grid.Row="1" Grid.Column="2" MouseMove="Bind_MouseMove"></Border>
+        
+        <Border Name="b7" Background="Transparent" Grid.Row="2" Grid.Column="0" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b8" Background="Transparent" Grid.Row="2" Grid.Column="1" MouseMove="Bind_MouseMove"></Border>
+        <Border Name="b9" Background="Transparent" Grid.Row="2" Grid.Column="2" MouseMove="Bind_MouseMove"></Border>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFframework.Controls.Label"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFframework.Controls"
+        mc:Ignorable="d"
+        Title="Label" Height="450" Width="800">
+    <Grid>
+        <!--
+            宽度为 Width
+            高度为 Height
+            内容为 Content
+            水平方向排列设置 HorizontalAlignment
+            垂直方向排列设置 VerticalAlignment
+            外边距 Margin  对应方向分别是 左上右下，一个数字代表所有方向的外边距，两个数字分别代表 左右 上下。
+            字体大小 FontSize 
+            字体颜色 Foreground
+        -->
+        
+        <Label Width="100" Height="30" Content="label控件" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0" FontSize="18" Foreground="Aqua"></Label>
+    </Grid>
+</Window>

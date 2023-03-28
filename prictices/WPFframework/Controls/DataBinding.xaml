@@ -1,0 +1,42 @@
+﻿<Window x:Class="WPFframework.Controls.DataBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFframework.Controls"
+        xmlns:c="clr-namespace:WPFframework.Entity"
+        mc:Ignorable="d"
+        Title="DataBinding" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid Name="MyGrid">
+        <Grid.Resources>
+            <!--
+                这是一个资源字典
+                key 为 myDataSource value 为 MyData 类
+            -->
+            <c:MyData x:Key="myDataSource" />
+        </Grid.Resources>
+        <Grid.DataContext>
+            <!--绑定资源-->
+            <Binding Source="{StaticResource myDataSource}"/>
+        </Grid.DataContext>
+        
+        <!--
+            Button 是 Grid 的子元素 所有 Grid 绑定的数据源 可以分享给子元素       
+        -->
+        <Button 
+            Background="{Binding Path=ColorName}" 
+            Width="{Binding Path=Width}" 
+            Height="{Binding Path=Height}" 
+            Content="数据绑定" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Margin="20,20,0,0"
+            >
+        </Button>
+        
+        <!--
+            第二种 直接在后台数据绑定（控件）
+        -->
+        <Label Name="lab1" Content="{Binding Path=Title}" FontSize="20" FontWeight="Bold" Margin="20,72,304,167"></Label>
+    </Grid>
+</Window>

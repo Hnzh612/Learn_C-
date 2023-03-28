@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFframework.Controls.Button"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFframework.Controls"
+        mc:Ignorable="d"
+        Title="Button" Height="450" Width="800">
+    <Grid>
+        <!--
+            边框颜色 BorderBrush
+            边框宽度 BorderThickness
+            点击事件 Click
+            鼠标移动事件 Mousmove
+        -->
+        <Button Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Content="我是个按钮" Margin="20" Background="Aqua" Foreground="#FF00A7FF" BorderThickness="0,0,0,0" 
+                MouseMove="Button_MouseMove" Click="Button_Click"
+                >
+        </Button>
+    </Grid>
+</Window>
