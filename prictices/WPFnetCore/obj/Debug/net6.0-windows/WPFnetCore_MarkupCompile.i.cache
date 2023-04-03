@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\myf\prictices\WPFnetCore\obj\Debug\net6.0-windows\
+D:\Learn_C-\prictices\WPFnetCore\obj\Debug\net6.0-windows\
 WPFnetCore
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\myf\prictices\WPFnetCore\App.xaml
+D:\Learn_C-\prictices\WPFnetCore\App.xaml
 11407045341
 
 5-1657240440
 194-1617825143
 MainWindow.xaml;
 
-True
+False
 

@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\Learn_C-\prictices\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\Learn_C-\prictices\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\Learn_C-\prictices\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\Learn_C-\prictices\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+D:\Learn_C-\prictices\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

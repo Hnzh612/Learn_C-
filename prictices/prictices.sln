@@ -15,6 +15,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeunControl", "MeunControl\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFframework", "WPFframework\WPFframework.csproj", "{CAF54A79-8027-4319-AED0-AA25A12D84AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access", "Access\Access\Access.csproj", "{08944D33-32B7-4BA4-B4BB-F64039653861}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFnetCore", "WPFnetCore\WPFnetCore.csproj", "{6527598F-5DE2-411E-86F6-3A8F41582C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceToObj", "面向对象\FaceToObj.csproj", "{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOvlApplication", "OperatorOvlApplication\OperatorOvlApplication.csproj", "{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +55,26 @@ Global
 		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAF54A79-8027-4319-AED0-AA25A12D84AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08944D33-32B7-4BA4-B4BB-F64039653861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08944D33-32B7-4BA4-B4BB-F64039653861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08944D33-32B7-4BA4-B4BB-F64039653861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08944D33-32B7-4BA4-B4BB-F64039653861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6527598F-5DE2-411E-86F6-3A8F41582C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6527598F-5DE2-411E-86F6-3A8F41582C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6527598F-5DE2-411E-86F6-3A8F41582C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6527598F-5DE2-411E-86F6-3A8F41582C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

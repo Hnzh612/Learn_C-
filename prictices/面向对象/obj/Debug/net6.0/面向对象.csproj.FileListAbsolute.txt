@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\面向对象\bin\Debug\net6.0\面向对象.exe
+D:\Learn_C-\prictices\面向对象\bin\Debug\net6.0\面向对象.deps.json
+D:\Learn_C-\prictices\面向对象\bin\Debug\net6.0\面向对象.runtimeconfig.json
+D:\Learn_C-\prictices\面向对象\bin\Debug\net6.0\面向对象.dll
+D:\Learn_C-\prictices\面向对象\bin\Debug\net6.0\面向对象.pdb
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.AssemblyInfo.cs
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.dll
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\refint\面向对象.dll
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.pdb
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\面向对象.genruntimeconfig.cache
+D:\Learn_C-\prictices\面向对象\obj\Debug\net6.0\ref\面向对象.dll

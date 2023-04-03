@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myf\\prictices\\WPFnetCore\\WPFnetCore.csproj",
+      "projectUniqueName": "D:\\Learn_C-\\prictices\\WPFnetCore\\WPFnetCore.csproj",
       "projectName": "WPFnetCore",
-      "projectPath": "D:\\myf\\prictices\\WPFnetCore\\WPFnetCore.csproj",
+      "projectPath": "D:\\Learn_C-\\prictices\\WPFnetCore\\WPFnetCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\myf\\prictices\\WPFnetCore\\obj\\",
+      "outputPath": "D:\\Learn_C-\\prictices\\WPFnetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

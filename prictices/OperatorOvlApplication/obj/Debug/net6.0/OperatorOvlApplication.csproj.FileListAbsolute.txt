@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\OperatorOvlApplication\bin\Debug\net6.0\OperatorOvlApplication.exe
+D:\Learn_C-\prictices\OperatorOvlApplication\bin\Debug\net6.0\OperatorOvlApplication.deps.json
+D:\Learn_C-\prictices\OperatorOvlApplication\bin\Debug\net6.0\OperatorOvlApplication.runtimeconfig.json
+D:\Learn_C-\prictices\OperatorOvlApplication\bin\Debug\net6.0\OperatorOvlApplication.dll
+D:\Learn_C-\prictices\OperatorOvlApplication\bin\Debug\net6.0\OperatorOvlApplication.pdb
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.AssemblyInfo.cs
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.dll
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\refint\OperatorOvlApplication.dll
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.pdb
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\OperatorOvlApplication.genruntimeconfig.cache
+D:\Learn_C-\prictices\OperatorOvlApplication\obj\Debug\net6.0\ref\OperatorOvlApplication.dll

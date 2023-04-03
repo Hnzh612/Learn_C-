@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\myf\prictices\WPFframework\obj\Debug\
+D:\Learn_C-\prictices\WPFframework\obj\Debug\
 WPFframework
 none
 false
 DEBUG;TRACE
-D:\myf\prictices\WPFframework\App.xaml
+D:\Learn_C-\prictices\WPFframework\App.xaml
 8494185547
 
-13-2097839136
+14-176061015
 13-38814620
 Controls\Button.xaml;Controls\CheckBox.xaml;Controls\ColorMoveBox.xaml;Controls\DataBinding.xaml;Controls\Label.xaml;Controls\RadioButton.xaml;Controls\TextBlock.xaml;MainWindow.xaml;
 
-False
+True
 

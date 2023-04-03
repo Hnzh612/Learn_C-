@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myf\\prictices\\prictices\\prictices.csproj",
+      "projectUniqueName": "D:\\Learn_C-\\prictices\\prictices\\prictices.csproj",
       "projectName": "prictices",
-      "projectPath": "D:\\myf\\prictices\\prictices\\prictices.csproj",
+      "projectPath": "D:\\Learn_C-\\prictices\\prictices\\prictices.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\myf\\prictices\\prictices\\obj\\",
+      "outputPath": "D:\\Learn_C-\\prictices\\prictices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
