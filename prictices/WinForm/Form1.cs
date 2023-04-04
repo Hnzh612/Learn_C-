@@ -38,6 +38,7 @@ namespace WinForm
             button1.Text = "打开串口";
             button1.BackColor = Color.Aqua;
 
+            LogCore.CreateInstance().AsyncLog(ex.Message);
             MessageBox.Show(ex.Message);
             comboBox1.Enabled = true;
             comboBox2.Enabled = true;
@@ -398,27 +399,35 @@ namespace WinForm
 
             /*  获取当前时间，用于填充文件名 */
             time = DateTime.Now;
-            fileName = "log" + "_" + time.ToString("yyyy_MM_dd_HH_mm_ss") + ".txt";
+            string _dirPath = $"{Environment.CurrentDirectory}/SaveData/{DateTime.Now.ToString("yyyy_MM")}";
+            if (!Directory.Exists(_dirPath)) { Directory.CreateDirectory(_dirPath); };
+            string FilePath = $"{_dirPath}/{time.ToString("dd_HH_mm_ss")} .txt";
+            if (!File.Exists(FilePath)) { File.Create(FilePath).Close(); };
 
             try
             {
                 /* 保存串口接收区的内容 */
                 // 创建 FileStream 类的实例
-                FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate,FileAccess.ReadWrite,FileShare.ReadWrite);
 
-                // 将字符串转换为字节数组
-                byte[] bytes = Encoding.UTF8.GetBytes(recv_data);
+                using(StreamWriter sw = new StreamWriter(FilePath))
+                {
+                    sw.WriteLineAsync(recv_data);
+                }
+                //FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate,FileAccess.ReadWrite,FileShare.ReadWrite);
 
-                // 向文件中写入字节数组
-                fileStream.Write(bytes, 0, bytes.Length);
+                //// 将字符串转换为字节数组
+                //byte[] bytes = Encoding.UTF8.GetBytes(recv_data);
 
-                // 刷新缓冲区
-                fileStream.Flush();
+                //// 向文件中写入字节数组
+                //fileStream.Write(bytes, 0, bytes.Length);
 
-                // 关闭流
-                fileStream.Close();
+                //// 刷新缓冲区
+                //fileStream.Flush();
 
-                MessageBox.Show($"日志已保存！({fileName})");
+                //// 关闭流
+                //fileStream.Close();
+
+                MessageBox.Show($"日志已保存！ 路径：{FilePath}");
             }
             catch (Exception ex)
             {
@@ -434,7 +443,7 @@ namespace WinForm
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Multiselect = false;
             openFileDialog.Title = "请选择要加载的文件（文本格式）";
-            openFileDialog.Filter = "所有文件（*.*）|*.*";
+            openFileDialog.Filter = "文本文件(*.txt)|*.txt|所有文件(*.*)|*.*";
             if(openFileDialog.ShowDialog() == DialogResult.OK )
             {
                 file = openFileDialog.FileName;

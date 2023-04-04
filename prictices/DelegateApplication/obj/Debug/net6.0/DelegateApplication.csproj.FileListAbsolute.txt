@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\DelegateApplication\bin\Debug\net6.0\DelegateApplication.exe
+D:\Learn_C-\prictices\DelegateApplication\bin\Debug\net6.0\DelegateApplication.deps.json
+D:\Learn_C-\prictices\DelegateApplication\bin\Debug\net6.0\DelegateApplication.runtimeconfig.json
+D:\Learn_C-\prictices\DelegateApplication\bin\Debug\net6.0\DelegateApplication.dll
+D:\Learn_C-\prictices\DelegateApplication\bin\Debug\net6.0\DelegateApplication.pdb
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.AssemblyInfo.cs
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.dll
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\refint\DelegateApplication.dll
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.pdb
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\DelegateApplication.genruntimeconfig.cache
+D:\Learn_C-\prictices\DelegateApplication\obj\Debug\net6.0\ref\DelegateApplication.dll

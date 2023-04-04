@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\GenericApplication\bin\Debug\net6.0\GenericApplication.exe
+D:\Learn_C-\prictices\GenericApplication\bin\Debug\net6.0\GenericApplication.deps.json
+D:\Learn_C-\prictices\GenericApplication\bin\Debug\net6.0\GenericApplication.runtimeconfig.json
+D:\Learn_C-\prictices\GenericApplication\bin\Debug\net6.0\GenericApplication.dll
+D:\Learn_C-\prictices\GenericApplication\bin\Debug\net6.0\GenericApplication.pdb
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.AssemblyInfo.cs
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.dll
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\refint\GenericApplication.dll
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.pdb
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\GenericApplication.genruntimeconfig.cache
+D:\Learn_C-\prictices\GenericApplication\obj\Debug\net6.0\ref\GenericApplication.dll

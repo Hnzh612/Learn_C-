@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
+using System.IO;
 
 namespace Access
 {
@@ -24,7 +25,22 @@ namespace Access
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "insert into 表1(工作时间,工作机位,摄像头编号,[IP地址])values(2009/12/31,2,3,4)";
+            string FilePath = null;
+            string _dirPath = $"{Environment.CurrentDirectory}/SSLog/{DateTime.Now.ToString("yyyy_MM")}";
+            if (!Directory.Exists(_dirPath)) { Directory.CreateDirectory(_dirPath); };
+            FilePath = $"{_dirPath}/{DateTime.Now.ToString("dd")}.log";
+
+            if (!File.Exists(FilePath)) { File.Create(FilePath).Close(); };
+            using(StreamReader sr = new StreamReader(FilePath,Encoding.UTF8))
+            {
+                string line;
+                while((line = sr.ReadLine()) != null)
+                {
+                    textBox1.Text = line;
+                    break;
+                }
+            }
+            //textBox1.Text = "insert into 表1(工作时间,工作机位,摄像头编号,[IP地址])values(2009/12/31,2,3,4)";
         }
         private void button1_Click(object sender, EventArgs e)
         {

@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\namespace_name\bin\Debug\net6.0\namespace_name.exe
+D:\Learn_C-\prictices\namespace_name\bin\Debug\net6.0\namespace_name.deps.json
+D:\Learn_C-\prictices\namespace_name\bin\Debug\net6.0\namespace_name.runtimeconfig.json
+D:\Learn_C-\prictices\namespace_name\bin\Debug\net6.0\namespace_name.dll
+D:\Learn_C-\prictices\namespace_name\bin\Debug\net6.0\namespace_name.pdb
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.AssemblyInfo.cs
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.dll
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\refint\namespace_name.dll
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.pdb
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\namespace_name.genruntimeconfig.cache
+D:\Learn_C-\prictices\namespace_name\obj\Debug\net6.0\ref\namespace_name.dll

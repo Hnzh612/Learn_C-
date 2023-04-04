@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\InterfaceImplementer\bin\Debug\net6.0\InterfaceImplementer.exe
+D:\Learn_C-\prictices\InterfaceImplementer\bin\Debug\net6.0\InterfaceImplementer.deps.json
+D:\Learn_C-\prictices\InterfaceImplementer\bin\Debug\net6.0\InterfaceImplementer.runtimeconfig.json
+D:\Learn_C-\prictices\InterfaceImplementer\bin\Debug\net6.0\InterfaceImplementer.dll
+D:\Learn_C-\prictices\InterfaceImplementer\bin\Debug\net6.0\InterfaceImplementer.pdb
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.AssemblyInfo.cs
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.dll
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\refint\InterfaceImplementer.dll
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.pdb
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\InterfaceImplementer.genruntimeconfig.cache
+D:\Learn_C-\prictices\InterfaceImplementer\obj\Debug\net6.0\ref\InterfaceImplementer.dll

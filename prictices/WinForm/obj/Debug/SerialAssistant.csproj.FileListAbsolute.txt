@@ -1,0 +1,11 @@
+D:\Learn_C-\prictices\WinForm\bin\Debug\WinForm.exe.config
+D:\Learn_C-\prictices\WinForm\bin\Debug\WinForm.exe
+D:\Learn_C-\prictices\WinForm\bin\Debug\WinForm.pdb
+D:\Learn_C-\prictices\WinForm\obj\Debug\SerialAssistant.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\WinForm\obj\Debug\SerialAssistant.csproj.SuggestedBindingRedirects.cache
+D:\Learn_C-\prictices\WinForm\obj\Debug\WinForm.Form1.resources
+D:\Learn_C-\prictices\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\Learn_C-\prictices\WinForm\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+D:\Learn_C-\prictices\WinForm\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\WinForm\obj\Debug\WinForm.exe
+D:\Learn_C-\prictices\WinForm\obj\Debug\WinForm.pdb

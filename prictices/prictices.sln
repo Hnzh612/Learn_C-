@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prictices", "prictices\prictices.csproj", "{4A621655-1457-49E6-B4A2-3DFE8B4825CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{BC63987B-5C98-4F87-9EFF-65ED035DBB9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialAssistant", "WinForm\SerialAssistant.csproj", "{BC63987B-5C98-4F87-9EFF-65ED035DBB9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_Table", "Form_Table\Form_Table.csproj", "{1DE6F536-DD5A-4B48-B792-98C91855DECA}"
 EndProject
@@ -19,11 +19,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access", "Access\Access\Acc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFnetCore", "WPFnetCore\WPFnetCore.csproj", "{6527598F-5DE2-411E-86F6-3A8F41582C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceToObj", "面向对象\FaceToObj.csproj", "{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceToObj", "面向对象\FaceToObj.csproj", "{4B75CB04-07B9-4ACA-B71A-E85A972AC7BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{CAC7A1ED-95F0-40D5-BE54-B4790127BE32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOvlApplication", "OperatorOvlApplication\OperatorOvlApplication.csproj", "{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOvlApplication", "OperatorOvlApplication\OperatorOvlApplication.csproj", "{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceImplementer", "InterfaceImplementer\InterfaceImplementer.csproj", "{AE476E94-B5CA-4736-B7DF-D65107CA6439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "namespace_name", "namespace_name\namespace_name.csproj", "{0C036984-24CE-44E3-944F-28FC3B3424F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericApplication", "GenericApplication\GenericApplication.csproj", "{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateApplication", "DelegateApplication\DelegateApplication.csproj", "{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CF99A1-3A48-48BE-BC25-BF3BF5C77B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE476E94-B5CA-4736-B7DF-D65107CA6439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE476E94-B5CA-4736-B7DF-D65107CA6439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE476E94-B5CA-4736-B7DF-D65107CA6439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE476E94-B5CA-4736-B7DF-D65107CA6439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C036984-24CE-44E3-944F-28FC3B3424F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C036984-24CE-44E3-944F-28FC3B3424F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C036984-24CE-44E3-944F-28FC3B3424F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C036984-24CE-44E3-944F-28FC3B3424F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
