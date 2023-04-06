@@ -1,0 +1,15 @@
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\bin\Debug\net6.0\PropertyApplication.exe
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\bin\Debug\net6.0\PropertyApplication.deps.json
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\bin\Debug\net6.0\PropertyApplication.runtimeconfig.json
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\bin\Debug\net6.0\PropertyApplication.dll
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\bin\Debug\net6.0\PropertyApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.AssemblyInfoInputs.cache
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.AssemblyInfo.cs
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.dll
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\refint\PropertyApplication.dll
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\PropertyApplication.genruntimeconfig.cache
+F:\韩郑濠\Learn_C-\prictices\PropertyApplication\obj\Debug\net6.0\ref\PropertyApplication.dll

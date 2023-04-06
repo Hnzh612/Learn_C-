@@ -1,0 +1,15 @@
+D:\Learn_C-\prictices\AttributeApplication\bin\Debug\net6.0\AttributeApplication.exe
+D:\Learn_C-\prictices\AttributeApplication\bin\Debug\net6.0\AttributeApplication.deps.json
+D:\Learn_C-\prictices\AttributeApplication\bin\Debug\net6.0\AttributeApplication.runtimeconfig.json
+D:\Learn_C-\prictices\AttributeApplication\bin\Debug\net6.0\AttributeApplication.dll
+D:\Learn_C-\prictices\AttributeApplication\bin\Debug\net6.0\AttributeApplication.pdb
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.csproj.AssemblyReference.cache
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.AssemblyInfoInputs.cache
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.AssemblyInfo.cs
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.csproj.CoreCompileInputs.cache
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.dll
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\refint\AttributeApplication.dll
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.pdb
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\AttributeApplication.genruntimeconfig.cache
+D:\Learn_C-\prictices\AttributeApplication\obj\Debug\net6.0\ref\AttributeApplication.dll

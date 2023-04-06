@@ -29,9 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceImplementer", "Int
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "namespace_name", "namespace_name\namespace_name.csproj", "{0C036984-24CE-44E3-944F-28FC3B3424F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericApplication", "GenericApplication\GenericApplication.csproj", "{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericApplication", "GenericApplication\GenericApplication.csproj", "{FBBD2DE8-9993-4D16-9DE3-7FFAD804CC26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateApplication", "DelegateApplication\DelegateApplication.csproj", "{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateApplication", "DelegateApplication\DelegateApplication.csproj", "{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeApplication", "AttributeApplication\AttributeApplication.csproj", "{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyApplication", "PropertyApplication\PropertyApplication.csproj", "{CCF14EFF-E3E5-40B7-AE68-E0B771407341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerApplication", "IndexerApplication\IndexerApplication.csproj", "{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventApplication", "EventApplication\EventApplication.csproj", "{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousApplication", "AnonymousApplication\AnonymousApplication.csproj", "{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA27EEE-0E44-46E7-BFB7-B19F2D6AB368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF14EFF-E3E5-40B7-AE68-E0B771407341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF14EFF-E3E5-40B7-AE68-E0B771407341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF14EFF-E3E5-40B7-AE68-E0B771407341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF14EFF-E3E5-40B7-AE68-E0B771407341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

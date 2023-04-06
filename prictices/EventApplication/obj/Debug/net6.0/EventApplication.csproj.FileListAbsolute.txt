@@ -1,0 +1,15 @@
+F:\韩郑濠\Learn_C-\prictices\EventApplication\bin\Debug\net6.0\EventApplication.exe
+F:\韩郑濠\Learn_C-\prictices\EventApplication\bin\Debug\net6.0\EventApplication.deps.json
+F:\韩郑濠\Learn_C-\prictices\EventApplication\bin\Debug\net6.0\EventApplication.runtimeconfig.json
+F:\韩郑濠\Learn_C-\prictices\EventApplication\bin\Debug\net6.0\EventApplication.dll
+F:\韩郑濠\Learn_C-\prictices\EventApplication\bin\Debug\net6.0\EventApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.AssemblyInfoInputs.cache
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.AssemblyInfo.cs
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.dll
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\refint\EventApplication.dll
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\EventApplication.genruntimeconfig.cache
+F:\韩郑濠\Learn_C-\prictices\EventApplication\obj\Debug\net6.0\ref\EventApplication.dll

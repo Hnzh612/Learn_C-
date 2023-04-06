@@ -1,0 +1,15 @@
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\bin\Debug\net6.0\IndexerApplication.exe
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\bin\Debug\net6.0\IndexerApplication.deps.json
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\bin\Debug\net6.0\IndexerApplication.runtimeconfig.json
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\bin\Debug\net6.0\IndexerApplication.dll
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\bin\Debug\net6.0\IndexerApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.AssemblyInfoInputs.cache
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.AssemblyInfo.cs
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.dll
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\refint\IndexerApplication.dll
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.pdb
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\IndexerApplication.genruntimeconfig.cache
+F:\韩郑濠\Learn_C-\prictices\IndexerApplication\obj\Debug\net6.0\ref\IndexerApplication.dll
