@@ -1,0 +1,256 @@
+{
+    "SimpleArea4": {
+        "Start": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "End": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "SimpleArea3": {
+        "Start": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "End": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "SimpleArea2": {
+        "Start": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "End": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "SimpleArea1": {
+        "Start": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "End": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "Waste1": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "Waste2": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "TIPArea4": {
+        "TopLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "TopRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "TIPArea3": {
+        "TopLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "TopRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "TIPArea2": {
+        "TopLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "TopRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "TIPArea1": {
+        "TopLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "TopRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "ReagentCircleTopRight": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "ReagentCircleLeftCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "ReagentCircleBottomRight": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "MixingVibrationArea": {
+        "TopLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "TopRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomRight": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "BottomLeft": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "MixingVibrationAreaCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "NitrogenBlowingArea": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea1": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea2": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea3": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea4": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea5": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea6": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea7": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea8": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea9": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea10": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea11": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "StoreArea12": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "Version": 5
+}

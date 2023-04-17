@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "syi6es8ph38sbFgrL7gf7TxHMTMfjQeL1HWfFskAzLbmBf+jitWBwOcPn634m5mA2zzaozR/1oGtlpSrQYFk1A==",
+  "success": true,
+  "projectFilePath": "F:\\韩郑濠\\Learn_C-\\JSON_prictices\\JSON_prictices\\JSON_prictices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
