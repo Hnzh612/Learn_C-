@@ -1,0 +1,40 @@
+﻿<Window x:Class="self_adaptation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:self_adaptation"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="699" Width="1200" MinWidth="500"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True" 
+        ResizeMode="CanResizeWithGrip" WindowStartupLocation="Manual"
+        ><!--WindowState="Maximized"-->
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ResponsiveDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Border Background="#292D34" 
+                BorderBrush="#3A4149"
+                BorderThickness="2"
+                CornerRadius="9,9,0,9"/>
+        <ContentControl Content="{Binding}">
+            <ContentControl.Style>
+                <Style TargetType="ContentControl">
+                    <Setter Property="ContentTemplate" Value="{StaticResource MainLayout}"></Setter>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ActualWidth,RelativeSource={RelativeSource AncestorType=Window},Converter={StaticResource GreaterThanConverter},ConverterParameter=1250}"
+                                     Value="true">
+                            <Setter Property="ContentTemplate" Value="{StaticResource Greater1250Layout}"/>
+                        </DataTrigger>
+                        
+                    </Style.Triggers>
+                </Style>
+            </ContentControl.Style>
+        </ContentControl>
+    </Grid>
+</Window>

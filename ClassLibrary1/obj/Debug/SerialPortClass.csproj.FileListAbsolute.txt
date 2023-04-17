@@ -1,0 +1,9 @@
+F:\韩郑濠\Learn_C-\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\韩郑濠\Learn_C-\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\韩郑濠\Learn_C-\ClassLibrary1\bin\Debug\Log.dll
+F:\韩郑濠\Learn_C-\ClassLibrary1\bin\Debug\Log.pdb
+F:\韩郑濠\Learn_C-\ClassLibrary1\obj\Debug\SerialPortClass.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\ClassLibrary1\obj\Debug\SerialPortClass.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\ClassLibrary1\obj\Debug\SerialPortClass.csproj.CopyComplete
+F:\韩郑濠\Learn_C-\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\韩郑濠\Learn_C-\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

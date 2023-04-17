@@ -1,0 +1,6 @@
+F:\韩郑濠\Learn_C-\Log\bin\Debug\Log.dll
+F:\韩郑濠\Learn_C-\Log\bin\Debug\Log.pdb
+F:\韩郑濠\Learn_C-\Log\obj\Debug\Log.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\Log\obj\Debug\Log.dll
+F:\韩郑濠\Learn_C-\Log\obj\Debug\Log.pdb

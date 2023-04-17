@@ -35,13 +35,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateApplication", "Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeApplication", "AttributeApplication\AttributeApplication.csproj", "{FF869A8C-C040-4EC3-AEFE-39CAFBA7A87D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyApplication", "PropertyApplication\PropertyApplication.csproj", "{CCF14EFF-E3E5-40B7-AE68-E0B771407341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyApplication", "PropertyApplication\PropertyApplication.csproj", "{CCF14EFF-E3E5-40B7-AE68-E0B771407341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerApplication", "IndexerApplication\IndexerApplication.csproj", "{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexerApplication", "IndexerApplication\IndexerApplication.csproj", "{51F20E28-51CC-4933-AF14-1E9CBD0ADF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventApplication", "EventApplication\EventApplication.csproj", "{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventApplication", "EventApplication\EventApplication.csproj", "{0D22E846-1FD3-4F5B-B5C4-2CC2C54958A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousApplication", "AnonymousApplication\AnonymousApplication.csproj", "{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousApplication", "AnonymousApplication\AnonymousApplication.csproj", "{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{00084D3D-BD39-487F-B6AF-A2CA4FB7FF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{D909A796-CF34-43EB-A770-AC63A8E7A825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "self-adaptation", "self-adaptation\self-adaptation.csproj", "{3124F70D-7AAB-4126-9E37-DB60F54A14DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,9 +135,22 @@ Global
 		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0778D02E-E5D8-46FA-AA60-40C7865E2EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D909A796-CF34-43EB-A770-AC63A8E7A825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D909A796-CF34-43EB-A770-AC63A8E7A825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D909A796-CF34-43EB-A770-AC63A8E7A825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D909A796-CF34-43EB-A770-AC63A8E7A825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3124F70D-7AAB-4126-9E37-DB60F54A14DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3124F70D-7AAB-4126-9E37-DB60F54A14DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3124F70D-7AAB-4126-9E37-DB60F54A14DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3124F70D-7AAB-4126-9E37-DB60F54A14DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAF54A79-8027-4319-AED0-AA25A12D84AE} = {00084D3D-BD39-487F-B6AF-A2CA4FB7FF34}
+		{D909A796-CF34-43EB-A770-AC63A8E7A825} = {00084D3D-BD39-487F-B6AF-A2CA4FB7FF34}
+		{3124F70D-7AAB-4126-9E37-DB60F54A14DF} = {00084D3D-BD39-487F-B6AF-A2CA4FB7FF34}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {749F7149-86EC-42AB-8F3F-1D9C9EDF3AA2}

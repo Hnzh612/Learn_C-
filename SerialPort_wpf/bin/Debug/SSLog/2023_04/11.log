@@ -1,0 +1,6 @@
+[14:22:32:25] [FinderStartWork] [Error]:
+ExMessage:索引超出了数组界限。
+ExStackTrace:   在 SerialPortClass.SerialPortFinder.IsContains(Byte[] bigBytes, Byte[] smallBytes) 位置 F:\韩郑濠\Learn_C-\ClassLibrary1\SerialPortFinder.cs:行号 123
+   在 SerialPortClass.SerialPortFinder.<>c__DisplayClass54_0.<FinderStartWork>b__1(String portName) 位置 F:\韩郑濠\Learn_C-\ClassLibrary1\SerialPortFinder.cs:行号 179
+ExSource:ClassLibrary1
+ExTargetSite:Boolean IsContains(Byte[], Byte[])

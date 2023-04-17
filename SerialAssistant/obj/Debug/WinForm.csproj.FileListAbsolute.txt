@@ -1,0 +1,11 @@
+D:\myf\prictices\WinForm\bin\Debug\WinForm.exe.config
+D:\myf\prictices\WinForm\bin\Debug\WinForm.exe
+D:\myf\prictices\WinForm\bin\Debug\WinForm.pdb
+D:\myf\prictices\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+D:\myf\prictices\WinForm\obj\Debug\WinForm.csproj.SuggestedBindingRedirects.cache
+D:\myf\prictices\WinForm\obj\Debug\WinForm.Form1.resources
+D:\myf\prictices\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\myf\prictices\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\myf\prictices\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\myf\prictices\WinForm\obj\Debug\WinForm.exe
+D:\myf\prictices\WinForm\obj\Debug\WinForm.pdb
