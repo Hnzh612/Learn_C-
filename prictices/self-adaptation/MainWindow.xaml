@@ -31,7 +31,10 @@
                                      Value="true">
                             <Setter Property="ContentTemplate" Value="{StaticResource Greater1250Layout}"/>
                         </DataTrigger>
-                        
+                        <DataTrigger Binding="{Binding ActualWidth,RelativeSource={RelativeSource AncestorType=Window},Converter={StaticResource LessThanConverter},ConverterParameter=1000}"
+                                     Value="true">
+                            <Setter Property="ContentTemplate" Value="{StaticResource Less1000Layout}"/>
+                        </DataTrigger>
                     </Style.Triggers>
                 </Style>
             </ContentControl.Style>

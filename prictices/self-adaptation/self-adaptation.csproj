@@ -55,9 +55,18 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Convert\adaptationSize.cs" />
+    <Compile Include="diffentResolution.xaml.cs">
+      <DependentUpon>diffentResolution.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GetChildren.cs" />
     <Compile Include="ResponsiveDictionary.xaml.cs">
       <DependentUpon>ResponsiveDictionary.xaml</DependentUpon>
     </Compile>
+    <Page Include="diffentResolution.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

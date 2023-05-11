@@ -17,3 +17,6 @@ F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\self-adaptation.pdb
 F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\ResponsiveDictionary.baml
 F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\GeneratedInternalTypeHelper.g.cs
 F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\ResponsiveDictionary.g.cs
+F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\diffentResolution.g.cs
+F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\diffentResolution.baml
+F:\韩郑濠\Learn_C-\prictices\self-adaptation\obj\Debug\App.baml
