@@ -1,0 +1,57 @@
+﻿<Window x:Class="WpfAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAnimation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Storyboard x:Key="sb" >
+            <DoubleAnimation From="120" To="300" Duration="0:0:2"
+                             Storyboard.TargetName="_button"
+                             Storyboard.TargetProperty="Width">
+            </DoubleAnimation>
+            <DoubleAnimation From="40" To="150" Duration="0:0:2"
+                             Storyboard.TargetName="_button"
+                             Storyboard.TargetProperty="Height">
+            </DoubleAnimation>
+            <ColorAnimation From="White" To="Black" Duration="0:0:2"
+                            Storyboard.TargetName="_sb"
+                            Storyboard.TargetProperty="Color">
+            </ColorAnimation>
+            <!-- Brush SolidColorBrush  可以画颜色，背景-->
+        </Storyboard>
+        <Storyboard x:Key="rotatesb" AutoReverse="True" RepeatBehavior="Forever">
+            <DoubleAnimation From="0" To="360" Duration="0:0:2"
+                             Storyboard.TargetName="_rotate"
+                             Storyboard.TargetProperty="Angle"
+                             >
+            </DoubleAnimation>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Button.Click" SourceName="_button">
+            <BeginStoryboard Storyboard="{StaticResource rotatesb}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <StackPanel>
+            <Button Name="_button" Height="40" Width="120" Content="Button" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click"></Button>
+            <TextBlock Name="_text" Background="SkyBlue" Text="123456" Foreground="White"></TextBlock>
+            <TextBlock Text="123456" Foreground="White">
+                <TextBlock.Background>
+                    <SolidColorBrush Color="Green" x:Name="_sb"></SolidColorBrush>
+                </TextBlock.Background>
+            </TextBlock>
+        </StackPanel>
+        <Grid Width="100" Height="100" RenderTransformOrigin="0.5,0.5">
+            <!-- 渲染变形 -->
+            <Grid.RenderTransform>
+                <!-- 旋转变形 -->
+                <RotateTransform x:Name="_rotate" Angle="45" ></RotateTransform>
+            </Grid.RenderTransform>
+            <Border Width="12" Height="12" CornerRadius="6" Background="Orange" VerticalAlignment="Bottom"></Border>
+        </Grid>
+    </Grid>
+</Window>

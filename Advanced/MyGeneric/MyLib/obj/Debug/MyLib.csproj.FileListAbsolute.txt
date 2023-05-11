@@ -1,0 +1,6 @@
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\bin\Debug\MyLib.dll
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\bin\Debug\MyLib.pdb
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\obj\Debug\MyLib.dll
+F:\韩郑濠\Learn_C-\Advanced\MyGeneric\MyLib\obj\Debug\MyLib.pdb
